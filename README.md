@@ -6,6 +6,7 @@
 - 💬 I'm an independent researcher of human computation, crowdsourcing, RL, thoughout my academic, professional and independant experience
 - 😄 Pronouns: he/him
 - ⚡ [More about me](https://about.me/vehpus)
+- :information_source: Make sure to check out [my gists](https://gist.github.com/VehpuS), which contain several tutorials / code samples.
 
 <!--
 **VehpuS/VehpuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
