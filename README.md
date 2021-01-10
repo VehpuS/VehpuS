@@ -1,4 +1,4 @@
-### :bowtie: Moshe Gordon Radian
+### 🦔 Moshe Gordon Radian
 ##### CTO & Co-Founder at Travience | Autodidact | Polyglot Full-stack Developer | Lifelong Learner | Independent Researcher
 <img src="https://github.com/VehpuS/VehpuS/raw/master/IMG_8510.jpeg" />
 
