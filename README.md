@@ -2,7 +2,7 @@
 ##### CTO & Co-Founder at Travience | Autodidact | Polyglot Full-stack Developer | Lifelong Learner | Independent Researcher
 <img src="https://github.com/VehpuS/VehpuS/raw/master/IMG_8510.jpeg" />
 
-- 🔭 I'm a mostly self-taught full stack SW engineer, formally working in C (embedded custom OS) and Python (verification tests) @ Mellanox R&D (now NVIDIA Mellanox), currently working as a CTO / developer on a startup in full stack JS / Typescript / React / React Native.
+- 🔭 I'm a mostly self-taught full stack SW engineer currently working as a CTO / developer on a startup in full stack JS / Typescript / React / React Native, formally working in C (embedded custom OS) and Python (verification tests) @ Mellanox R&D (now NVIDIA Mellanox).
 - 🌱 Programming languages enthusiast - I've dabbled to various extents in many modern and some older programming languages, and am always willing to learn more. Currently learning Haxe for fun.
 - 💬 I'm an independent researcher of human computation, crowdsourcing, RL, thoughout my academic, professional and independant experience.
 - 😄 Pronouns: he/him
