@@ -1,5 +1,5 @@
 ### 🦔 Moshe Gordon Radian
-##### Full Stack Developer @ Albo Climate | Autodidact | Polyglot Full-stack Developer | Lifelong Learner | Independent Researcher
+##### Full Stack, GIS and AI Developer @ Albo Climate | Autodidact | Polyglot Full-stack Developer | Lifelong Learner | Independent Researcher
 <img src="https://github.com/VehpuS/VehpuS/raw/master/IMG_8510.jpeg" />
 
 - 😄 Pronouns: he/him
