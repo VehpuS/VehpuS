@@ -1,6 +1,6 @@
 ### 🦔 Moshe Gordon Radian
 ##### Full Stack, GIS and AI Developer @ Albo Climate | Autodidact | Polyglot Full-stack Developer | Lifelong Learner | Independent Researcher
-<img src="https://github.com/VehpuS/VehpuS/raw/master/IMG_8510.jpeg" />
+<img src="https://github.com/VehpuS/VehpuS/raw/master/mii%20me%202.jpg" width=100/>
 
 - 😄 Pronouns: he/him
 - 🔭 I'm a mostly self-taught full stack SW engineer. I currently work as a full stack developer in Albo Climate - a startup using Satelite imagery analysis using AI to monitor and measure the impact of climate project. I develop in Python (Rasterio, backend code, starting to work on the AI as well) and Javascript (React). 
