@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: he/him
 - 🔭 I'm a mostly self-taught SW engineer. I currently work as a full stack + GIS + AI developer in Albo Climate (@albo-climate) - a startup using Satelite imagery analysis using AI to monitor and measure the impact of climate project. I develop in Python (Rasterio, Google Earth Engine, Pytorch Lightning) and Javascript (React, Google Earth Engine). My work account: @moshe-gr-albo.
-- 📜 I worked previously as a CTO / full stack developer on a startup I co-founded in JS / Typescript / React / React Native, and before that as an Operation System developer @ Mellanox R&D (now NVIDIA Mellanox) working in C (embedded custom OS) and Python (verification tests).
+- 📜 I worked previously as a CTO / full stack developer on a startup I co-founded in JS / Typescript / React / React Native, and before that as an Operation System developer @ Mellanox R&D (now NVIDIA Mellanox) working in C (embedded custom OS for network switches) and Python (verification tests for network switches).
 - 🌱 Programming languages enthusiast - I've dabbled to various extents in many modern and some older programming languages, and am always willing to learn more. Currently learning Haxe for fun.
 - 💬 I'm an independent researcher of human computation, crowdsourcing, RL, thoughout my academic, professional and independant experience.
 - ⚡ [More about me](https://about.me/vehpus)
