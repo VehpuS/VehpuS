@@ -3,7 +3,7 @@
 <img src="https://github.com/VehpuS/VehpuS/raw/master/mii%20me%202.jpg" width=100/>
 
 - 😄 Pronouns: he/him
-- 🔭 I'm a mostly self-taught SW engineer. I currently work as a full stack engineer in [Nucleai](https://nucleai.ai/) - a startup which uses AI in the spacial biology space to assess the efficacy of immunological cancer treatments.
+- 🔭 I'm a mostly self-taught SW engineer (incomplete Maths and CS degree from the Technion). I currently work as a full stack engineer in [Nucleai](https://nucleai.ai/) - a startup which uses AI in the spacial biology space to assess the efficacy of immunological cancer treatments.
 - 📜 I worked previously as:
   - a full stack + GIS + AI developer in [Albo Climate](https://www.albosys.com/) (@albo-climate) - a startup using Satelite imagery analysis using AI to monitor and measure the impact of climate project. I worked in Python (Rasterio, Google Earth Engine, Pytorch Lightning) and Javascript (React, Google Earth Engine).
   - a CTO / full stack developer on a startup I co-founded in JS / Typescript / React / React Native, in the travel tech and smart mobility spaces. I developed SaaS web and mobile applications, as well as GIS systems and algorithms based on Google Maps, Open Street Maps and Leaflet.
